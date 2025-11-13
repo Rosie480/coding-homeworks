@@ -1,0 +1,215 @@
+body{
+    text-align: center;
+    margin-top: 30px;
+}
+.card{
+    outline: 3px solid rosybrown;
+    width: fit-content;
+    margin: 25px;
+    gap: 5px;
+    border-radius: 10px;
+    transition: 0.7s;
+    display: inline-block;
+    box-shadow: 0 4px 8px rgb(204, 102, 24);
+}
+.card:hover{
+    box-shadow: 0 8px 16px rgba(86, 38, 6, 0.977);
+}
+.card img{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+.container{
+    padding: 3px;
+}
+.card2{
+    outline: 3px solid plum;
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    transition: 0.7s;
+    display: inline-block;
+    box-shadow: 0 8px 8px bisque;
+}
+.card2:hover{
+    box-shadow: 0 8px 16px rgb(206, 149, 73);
+}
+.card2 img{
+    width: fit-content;
+    height: auto;
+    border-radius: 10px;
+}
+.container2{
+    margin: 30px;
+    padding: 0;
+}
+
+.card3{
+    outline: 3px solid palevioletred;
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    transition: 0.7s;
+    display: inline-block;
+    box-shadow: 0 8px 8px rgba(174, 7, 63, 0.731);;
+}
+.card3:hover{
+    box-shadow: 0 8px 16px purple;
+}
+.card3 img{
+    width: fit-content;
+    height: auto;
+}
+.container3{
+    margin: 30px;
+    padding: 0;
+}
+.card4{
+    outline: 3px solid blue;
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    transition: 0.7s;
+    box-shadow: 0 6px 8px rgba(13, 99, 80, 0.557);
+    margin-top: 20px;
+    gap: 5px;
+    display: inline-block;
+}
+.card4:hover{
+    box-shadow: 0 8px 16px rgba(14, 86, 63, 0.747);
+}
+.card4 img{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+.container4{
+    margin: 30px;
+    padding: 0;
+}
+.card5{
+    outline: 3px solid rgb(225, 87, 49);
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    transition: 0.7s;
+    display: inline-block;
+    box-shadow: 0 8px 8px rgb(235, 216, 122);
+}
+.card5:hover{
+    box-shadow: 0 8px 16px rgb(225, 150, 10);
+}
+.card5 img{
+    width: fit-content;
+    height: auto;
+}
+.container5{
+    margin: 30px;
+    padding: 0;
+}
+.card6{
+    outline: 3px solid wheat;
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    transition: 0.7s;
+    box-shadow: 0 6px 8px rgb(246, 186, 242);
+}
+.card6:hover{
+    box-shadow: 0 8px 16px rgb(163, 92, 21);
+}
+.card6 img{
+    width: fit-content;
+    height: auto;
+    border-radius: 10px;
+}
+.container6{
+    margin: 30px;
+    padding: 0;
+}
+.card7{
+    outline: 3px solid rgba(233, 50, 50, 0.861);
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    transition: 0.7s;
+    box-shadow: 0 6px 8px rgba(255, 148, 54, 0.879);
+}
+.card7:hover{
+    box-shadow: 0 8px 16px rgb(153, 59, 8);
+}
+.card7 img{
+    width: fit-content;
+    height: auto;
+    border-radius: 10px;
+}
+.container7{
+    margin: 30px;
+    padding: 0;
+}
+.card8{
+    outline: 3px solid rgb(241, 115, 62);
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    transition: 0.7s;
+    box-shadow: 0 6px 8px rgb(232, 141, 4);
+}
+.card8:hover{
+    box-shadow: 0 8px 16px rgb(181, 127, 2);
+}
+.card8 img{
+    width: fit-content;
+    height: auto;
+    border-radius: 10px;
+}
+.container8{
+    margin: 30px;
+    padding: 0;
+}
+.card9{
+    outline: 3px solid rgb(130, 13, 232);
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    transition: 0.7s;
+    box-shadow: 0 6px 8px rgb(243, 122, 243);
+}
+.card9:hover{
+    box-shadow: 0 8px 16px rgb(72, 28, 72);
+}
+.card9 img{
+    width: fit-content;
+    height: auto;
+    border-radius: 10px;
+}
+.container9{
+    margin: 30px;
+    padding: 0;
+}
+.card10{
+    outline: 3px solid rgb(236, 232, 3);
+    width: fit-content;
+    margin: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    transition: 0.7s;
+    box-shadow: 0 6px 8px rgb(76, 117, 26);
+}
+.card10:hover{
+    box-shadow: 0 8px 16px rgb(122, 75, 14);
+}
+.card10 img{
+    width: fit-content;
+    height: auto;
+    border-radius: 10px;
+}
+.container10{
+    margin: 30px;
+    padding: 0;
+}
